@@ -1,12 +1,14 @@
 ## Etapa 2 del proyecto final
 
-- Numero del equipo: 
-- Nombre del equipo:
-- Nombre de todos miembros en su equipo:
+- Numero del equipo: Las amazónicas cibernéticas
+- Nombre de todos miembros en su equipo: Alexandra Zuñiga, Alejandra Sánchez y Agostina 
 - El título de su proyecto:
-- Asignación de tareas (dando los cambios del equipo): 
-- La lista de recursos y referencias que han usado:
-- Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
+- Asignación de tareas (dando los cambios del equipo): Alexandra hará la obra en HTML y Alejandra junto con Agostina en javascrip 
+- La lista de recursos y referencias que han usado: solo hemos usado lo aprendido en la plataforma de patrones hermosos. 
+- Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: https://www.youtube.com/watch?v=9BoV-ZxvSRA
+- 
 - Escriban las preguntas/dudas que tienen sobre su proyecto y/o su código para las moderadoras. Cuando las moderadoras les escribirán con retroalimentación en el foro, incluirán sugerencias a estas preguntas. Añadan sus preguntas aquí:
+¿cómo podemos acomodar palabras en un cuadrante en específico? 
+¿Cómo realizar un triángulo sin relleno? 
 
 No se olviden de entregar el código que ustedes han escrito para el proyecto final. Instrucciones para subir archivos a Github están disponibles en la plataforma.
